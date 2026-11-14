@@ -42,6 +42,7 @@ A collection of tools and resources for working with PDF files.
 | [CompressFly Merge PDF](https://compressfly.com/pdf-tools/merge-pdf) | Combine PDF files. |
 | [iLovePDF Merge PDF](https://www.ilovepdf.com/merge_pdf) | Merge PDFs in your chosen order. |
 | [Sejda Split PDF](https://www.sejda.com/split-pdf) | Split PDFs into smaller files. |
+| [Mdpresso](https://mdpresso.com/) | Split PDFs by page range or extract selected pages locally in the browser. |
 | [CompressFly Split PDF](https://compressfly.com/pdf-tools/split-pdf) | Split PDF documents. |
 
 ## Conversion and OCR
